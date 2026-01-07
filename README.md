@@ -6,7 +6,7 @@ This project analyze used car inventory data to understand pricing patterns,stoc
 The goal is to support better pricing and inventory decisions using data -driven insights.
 ---
 
-## Key Business questions
+## Key Business questions:
 -How many unique cars are available in inventory?
 -What is the average selling price of used cars?
 -How does car age and mileage impact pricing?
@@ -19,43 +19,43 @@ The goal is to support better pricing and inventory decisions using data -driven
 -Source: Kaggle(Used car Auction Price)
 -Records: 558838 Rows
 -Key Columns:
-Year
-make 
-model
-trim
-body 
-transmission
-state
-condition
-odometer
-color
-interior
-seller
-mmr
-sellingprice
+Year,
+make ,
+model,
+trim,
+body ,
+transmission,
+state,
+condition,
+odometer,
+color,
+interior,
+seller,
+mmr,
+sellingprice,
 saledate
 
 ---
-##Tools and Technologies
+##Tools and Technologies:
 -Power BI- Data modeling, Dax measures, Dashboard creation
 -SQL- Data cleaning and aggregation
 -Excel- Intial data inspection
 
 ---
 
-## Key insights
+## Key insights:
 -Cars newer than 5 years have significantly higher average price.
 -Mileage shows a strong negative correlation  price.
 -Certain brands maintain higher resale value despite higher mileage.
 
 ---
-##Business Recommendations
+##Business Recommendations:
 -Focus Inventory sourcing on high resale brands and low age vehicles.
 -Re-evalute pricing for moddels identified as outliers.
 -Improve stock turnover by discounting high-age,high-mileage vehicles.
 
 ---
-##Conclution
+##Conclution:
  This analysis demonstrates how inventory and pricing decisions can be improved uding stuctured data analysis and interactive dashboard.
 
 ---
