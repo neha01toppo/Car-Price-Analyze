@@ -6,7 +6,7 @@ This project analyze used car inventory data to understand pricing patterns,stoc
 The goal is to support better pricing and inventory decisions using data -driven insights.
 ---
 
-## Key Business ouestions
+## Key Business questions
 -How many unique cars are available in inventory?
 -What is the average selling price of used cars?
 -How does car age and mileage impact pricing?
