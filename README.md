@@ -59,7 +59,7 @@ _ Analyzing used car inventory data to understand pricing patterns,stock distrib
 
 ---
 ## Dashboard Preview
-![Car Price Dashboard]()
+![Car Price Dashboard](car_price_dashboard.png)
 
 
 ## Contact
