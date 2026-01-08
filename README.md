@@ -63,35 +63,9 @@ _ Analyzing used car inventory data to understand pricing patterns,stock distrib
 
 
 ## Contact
-- Neha Toppo
-- Aspiring Data Analyst
-- Linkedin: https: //www.linkedin.com/in/neha-toppo-1a740b385/
- 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
--
+ - Neha Toppo
+  - Aspiring Data Analyst
+  - [LinkedIn] (https://www.linkedin.com/in/neha-toppo-1a740b385/)
 
 
 
